@@ -4,6 +4,7 @@
 
 #*.csv
 
+*.zip
 
 # Jupyter Checkpoints
 
